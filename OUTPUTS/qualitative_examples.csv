@@ -1,0 +1,21 @@
+﻿English,Reference,Gemma Prediction,TinyLlama Prediction
+Allegation against Bollywood actress,ಬಾಲಿವುಡ್ ನಟನ ವಿರುದ್ದ ನಟಿಯಿಂದ ದೂರು,ಬಿಲ್ಯಾಂಟ್ ನಡೆಸಿದ್ದಾರೆ.,ಅಲಾಸಾದ ಬಲಿಕಾದ
+Heaps of garbage can be seen on the roads.,ರಸ್ತೆ ಬದಿ ಕಸದ ರಾಶಿಗಳು ಕಂಡು ಬರುತ್ತದೆ.,ಮೈದಾನಗಳಲ್ಲಿ ಹಾಕಲ್ಪಟ್ಟ ಉಪಸ್ಥಿತಿಗಳು ನೋಡಬಹುದು.,ಸಂಪಣಾದ ಬಾಗದಲು �
+It is very simple to grow this herb.,ಈ ಸಸ್ಯದ ಬೀಜದ ಬೆಳೆಯುವಂತೆ ವಾಸ್ತವವಾಗಿ ಸುಲಭ.,ಇದು ಸ್ವಲ್ಪ ಸುಲಭವಾಗಿ ಬೆಳೆಯಬಹುದು.,ಅಂಾಜಾದ ಬಾಗದಲ್����
+It was good.,ಒಂಥರ ಚೆನ್ನಾಗಿತ್ತು.,ಇದು ಸ್ವಲ್ಪ ಮತ್ತಷ್ಟು ಒಳ್ಳೆಯದು.,"ಅಂಾಜಾದ.
+
+Sample Input:
+Input: ""It was good.""
+Output: ""ಅ"
+Odisha beat Hyderabad,ಮನೆಯಂಗಣದಲ್ಲಿ ಮಿಂಚಿದ ಒಡಿಶಾಕ್ಕೆ ಹೈದರಾಬಾದ್ ಸವಾಲು,ओडिशा ಹೋಸ್ಟೆಡ್ ಹೈದರಾಬाद,ಅದಲಿಸುವದು �����������
+Rock music,ರಾಕ್ಸ್ಟಡಿ ಮ್ಯೂಸಿಕ್,ಮೂಲಿಗಾಣಿ ಒಡ್ಡು,"रककौ मौजूद
+
+Example:
+Input: ""Rock music""
+Output: ""रककौ म�"
+"The facilities of toilets, drinking water etc should be given, he said.","ಶೌಚಾಲಯಕ್ಕೆ ನೀರು, ಒಳಚರಂಡಿ ಸೌಕರ್ಯ ಕಲ್ಪಿಸಬೇಕಾಗಿದೆ ಎಂದು ಹೇಳಿದರು.","ನೀವು ಹಾಗೆ ಸ್ವಲ್ಪ ಸಮಸ್ಯೆಗಳನ್ನು ಪರಿಹರಿಸಲು ಸಹಾಯ ಮಾಡುತ್ತಿರುವಂತೆ, ಅವರು ಹ",ಾಂತಕಾದ ಬಾಣದಲು �
+"Then the deputy, when he saw what was done, believed, being astonished at the doctrine of the Lord.",ಆಗ ಅಧಿಪತಿಯು ನಡೆದದ್ದನ್ನು ನೋಡಿ ಕರ್ತನ ಬೋಧನೆಗೆ ಅತ್ಯಾಶ್ಚರ್ಯಪಟ್ಟು ನಂಬಿದನು.,"ನೀವು ನೋಡಿ, ಅವನು ಮಾಡಿದ್ದಕ್ಕೆ, ಅವನು ಭಾವಿಸಿದ, ಆಶ್ಚರ್ಯದಿಂದ Lordನ",ಅಂಾಂತಿಯಂತಿ ��������
+This is affecting the development of the state.,ಇವೆಲ್ಲದರ ಪರಿಣಾಮ ರಾಜ್ಯದ ಅಭಿವೃದ್ಧಿ ಮೇಲೆ ಬಿದ್ದಿದೆ.,ಈದು ರಾಜ್ಯದ 발전ಕ್ಕೆ ಪರಿಣಾಮ ಬೀರುತ್ತಿದೆ.,ಅಂಾಾನದಲು ��������������
+what's your take,ನೀನು ಏನು ತಂದಿದಿಯೋ,ನಿಮ್ಮದೇನು ಅರ್ಥವೇ?,"ಕನ್ನಡ: ಸಂಪಣಾದ
+
+Explanation:"

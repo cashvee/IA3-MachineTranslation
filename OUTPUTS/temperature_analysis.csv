@@ -1,0 +1,7 @@
+Model,Temperature,BLEU,chrF,Inference_Time_Per_Sentence_Sec,Test_Samples
+TinyLlama,0.0,0.21,3.09,1.6641,30
+TinyLlama,0.7,0.38,2.85,1.7034,30
+TinyLlama,1.0,0.21,1.76,1.6966,30
+Gemma,0.0,1.01,17.01,1.8897,30
+Gemma,0.7,0.84,16.76,2.0091,30
+Gemma,1.0,0.81,14.47,1.9495,30

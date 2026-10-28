@@ -1,0 +1,8 @@
+﻿Risk,Potential impact,Mitigation
+Dataset bias or uneven dialect coverage,Unequal quality across language varieties,Audit data and evaluate diverse Kannada examples
+Hallucination or omission,Meaning changes or unsupported content,"Check source fidelity, names, numbers and negation"
+Tokenization errors,Incorrect handling of rare words or names,Inspect rare-word examples and test multiple domains
+Cultural nuance loss,Unnatural tone or altered intent,Use bilingual reviewers and contextual evaluation
+Sensitive-content errors,Potential harm in high-impact situations,Require qualified human review for high-stakes use
+Privacy exposure,Disclosure of personal or confidential text,Minimise data and check external service privacy terms
+Metric limitations,Overlap scores may not reflect true adequacy,Combine BLEU/chrF with human assessment

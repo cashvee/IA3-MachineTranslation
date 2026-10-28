@@ -1,0 +1,2 @@
+Model,Parameters,Training_Time_Min,BLEU,chrF,Inference_Time_Per_Sentence_Sec,Test_Samples
+TinyLlama-1.1B (prompt-only),1100048384,,0.05,2.61,1.6275,200

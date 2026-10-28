@@ -1,0 +1,2 @@
+Model,Parameters,Training_Time_Min,BLEU,chrF,Inference_Time_Per_Sentence_Sec,Test_Samples
+Gemma-2-2B (prompt-only),2614341888,,1.09,15.84,1.8572,200
