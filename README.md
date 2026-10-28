@@ -318,7 +318,7 @@ The comparison and temperature-analysis files support quantitative evaluation, w
 
 This project compares a Transformer trained from scratch, a fine-tuned multilingual encoder–decoder, and two prompt-only decoder-only language models for English-to-Kannada translation.
 
-On the recorded 200-example evaluation set, Gemma achieved the highest BLEU and chrF scores, while mT5 provided a useful pretrained encoder–decoder baseline. The experiments also show that model size alone does not guarantee translation quality and that decoding temperature affects models differently.
+Among the four tested approaches, **Gemma-2-2B-IT was the best-performing model by the reported BLEU and chrF scores**. **mT5-small was the fastest at inference** in the main comparison. The Basic Transformer was lightweight but performed poorly, and TinyLlama's prompt-only translations had low automatic scores. Future work should evaluate a larger and more representative test set, verify translation quality with human evaluation, and ensure that metrics and timing are computed consistently.
 
 The results are exploratory rather than evidence of deployment-ready translation. Larger evaluations, human review, improved data quality, and responsible handling of sensitive content are necessary before practical use.
 
